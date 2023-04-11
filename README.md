@@ -1,5 +1,4 @@
-# CarteBlacncheProject
-Partial Web based implementation of Doctor-Patient appointment system. 
+# Appointment system. 
 
 1. Download and install Xampp, start the Xampp server.
 2. Import database named "db1" from the file into the phpmyAdmin tab of your browser
